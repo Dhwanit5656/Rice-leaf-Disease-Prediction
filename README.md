@@ -44,12 +44,3 @@ You can download the original image dataset used for this project from the follo
 
 ---
 
-## 💻 Installation and Setup
-
-Follow these steps to set up the environment and run the project locally.
-
-### 1. Clone the Repository
-
-```bash
-git clone [https://github.com/Dhwanit5656/Rice-leaf-Disease-Prediction.git](https://github.com/Dhwanit5656/Rice-leaf-Disease-Prediction.git)
-cd Rice-leaf-Disease-Prediction
